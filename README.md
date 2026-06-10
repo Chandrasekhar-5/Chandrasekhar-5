@@ -3,83 +3,122 @@
 </h1>
 
 <h3 align="center">
-  CSE Undergraduate | Aspiring Full Stack Developer | Open Source Enthusiast
+  CSE Undergraduate | Full Stack Developer | Open Source Enthusiast
 </h3>
 
+<!--
 <p align="center">
-  <a href="https://chandrasekhar-5.vercel.app" target="_blank"><b>🌐 Portfolio</b></a> •
+  <a href="https://chandrasekhar-5.vercel.app" target="_blank"><b>Portfolio</b></a> •
   <a href="https://www.linkedin.com/in/chandrasekhar-varri-733178324" target="_blank"><b>LinkedIn</b></a> •
   <a href="mailto:varrichandrasekhar5@gmail.com"><b>Email</b></a>
 </p>
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chandrasekhar-5&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/chandrasekhar-5?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 **CSE Undergraduate (2nd Year)** at **Vignan's Institute of Information Technology**  
-💻 Passionate about **Full Stack Development** & **Data Structures and Algorithms**  
-🌱 Currently learning **React** and strengthening **problem-solving skills**  
-🔍 Actively **seeking internship opportunities** as a **Frontend Developer**
+* B.Tech CSE Undergraduate (3rd Year) at **Vignan's Institute of Information Technology**
+* Interested in **Full Stack Development**, **Backend Engineering**, and **Problem Solving**
+* Currently learning **React**, **TypeScript**, and modern web development practices
+* Building projects using **React, Node.js, Express, MongoDB, PostgreSQL, and Supabase**
+* Active participant in **Open Source Programs**
+* Open to **Frontend** and **Full Stack Development Internship Opportunities**
 
-I enjoy building clean, user-focused web applications and contributing to open-source communities while continuously improving my fundamentals.
-
----
-
-## 🔭 Currently Working On
-
-- Strengthening **DSA fundamentals** using C & Java  
-- Learning **React (early stage)** and modern frontend workflows  
-- Building and improving **full stack projects**  
-- Actively contributing to **open source programs**
+I enjoy building practical applications, learning through hands-on development, and continuously strengthening my software engineering fundamentals.
 
 ---
 
-## 🧠 Technical Skills
+## 🚀 Currently Working On
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,js,html,css" />
-</p>
+* Building full stack web applications using React, Node.js, Express, and MongoDB
+* Authentication systems with JWT, OAuth, and Supabase
+* Improving Data Structures & Algorithms
+* Exploring scalable backend development practices
+* Contributing to open source projects and collaborative development
 
-### 🎨 Frontend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,react" />
-</p>
+---
 
-### 🛠 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,java,js,ts,python,html,css" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</div>
 
 ---
 
 ## 🌐 Portfolio
 
-🚀 Explore my projects, skills, and work here:  
-👉 **https://chandrasekhar-5.vercel.app**
+Explore my projects, skills, and work:
 
-(All major projects and live demos are available there.)
-
----
-
-## 🏆 Open Source & Achievements
-
-- 🌍 **ECWoC 2026 Contributor**  
-  - Current Rank: **40** (ongoing till Feb 28)  
-- 🧑‍💻 Active Open Source Participant  
-- 📚 Consistent learner with hands-on implementation mindset
+**https://chandrasekhar-5.vercel.app**
 
 ---
 
-## 📊 GitHub Stats
+## Open Source & Achievements
+
+* Contributor in **ECWoC 2026**
+* Active Open Source Contributor
+* Consistent learner focused on practical implementation
+* Building real-world full stack projects
+* Participated in collaborative development programs and coding communities
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrasekhar-5&theme=dark" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=chandrasekhar-5&custom_title=Chandrasekhar's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=7aa2f7&title_color=7aa2f7&area=true&area_color=283457"
+    alt="GitHub Activity Graph"
+  />
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandrasekhar-5&theme=github_dark" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasekhar-5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=aad4ff&border_radius=12&langs_count=8" width="40%" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandrasekhar-5&theme=github_dark" width="35%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandrasekhar-5&theme=github_dark" width="35%" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrasekhar-5&theme=github-dark-blue" />
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandrasekhar-5&theme=github_dark" />
@@ -87,11 +126,27 @@ I enjoy building clean, user-focused web applications and contributing to open-s
 
 ---
 
-## 🤝 Let’s Connect
-
-💼 Open to **internships**, **collaborations**, and **learning opportunities**  
-📩 Feel free to reach out — I’m always happy to connect and build together!
+## Let's Connect
 
 <p align="center">
-  ⭐ If you like my work, consider starring my repositories!
+  <a href="https://www.linkedin.com/in/chandrasekhar-varri-733178324">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://chandrasekhar-5.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="mailto:varrichandrasekhar5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+</p>
+
+<p align="center">
+  Open to internships, collaborations, and learning opportunities.
+</p>
+
+<p align="center">
+  If you like my work, consider starring my repositories.
 </p>
