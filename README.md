@@ -115,7 +115,7 @@ Explore my projects, skills, and work:
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrasekhar-5&theme=github-dark-blue" />
+  <img src="https://streak-stats.demolab.com?user=chandrasekhar-5&theme=github-dark-blue" />
 </p>
 
 <br>
