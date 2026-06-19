@@ -99,29 +99,29 @@ Explore my projects, skills, and work:
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandrasekhar-5&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandrasekhar-5&theme=github_dark&v=2" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasekhar-5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=aad4ff&border_radius=12&langs_count=8" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasekhar-5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=aad4ff&border_radius=12&langs_count=8&v=2" width="40%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandrasekhar-5&theme=github_dark" width="35%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandrasekhar-5&theme=github_dark&v=2" width="35%" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandrasekhar-5&theme=github_dark" width="35%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandrasekhar-5&theme=github_dark&v=2" width="35%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chandrasekhar-5&theme=github-dark-blue" />
+  <img src="https://streak-stats.demolab.com?user=chandrasekhar-5&theme=github-dark-blue&v=2" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandrasekhar-5&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandrasekhar-5&theme=github_dark&v=2" />
 </p>
 
 ---
